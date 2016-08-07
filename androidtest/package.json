@@ -1,0 +1,35 @@
+{
+    "author": "Pebble",
+    "dependencies": {},
+    "keywords": [],
+    "name": "pebblekit-android",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "PebbleKit Android Example App",
+        "enableMultiJS": false,
+        "messageKeys": {
+            "JEY_AXISZ": 4,
+            "KEY_AXISX": 2,
+            "KEY_AXISY": 3,
+            "KEY_BUTTON": 0,
+            "KEY_VIBRATE": 1
+        },
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "6092637b-8f58-4199-94d8-c606b1e45040",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
